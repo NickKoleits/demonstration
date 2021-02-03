@@ -1,3 +1,3 @@
 # demonstration
 
-I use this gtihub repository to demonstrate how to use GitHub.
+I use this repository to demonstrate how to use GitHub for educational purposes.
